@@ -84,6 +84,11 @@ ini adalah output apabila memilih tambah (1)
 
 <img width="280" alt="j1" src="https://user-images.githubusercontent.com/115516607/206637149-da0fc9cf-eb11-4815-9dc2-d118a8138236.png">
 
+
+ini adalah output apabila memilih untuk tambah lagi
+
+<img width="236" alt="j1 1" src="https://user-images.githubusercontent.com/115516607/206638190-258bf7c3-98af-467e-a0c2-092729c1f6f5.png">
+
 ini adalah output apabila memilih ubah (2)
 
 <img width="242" alt="j2" src="https://user-images.githubusercontent.com/115516607/206637919-76f0ac74-cfdd-4e77-bad6-079dd0958076.png">
@@ -91,10 +96,6 @@ ini adalah output apabila memilih ubah (2)
 berikut tampilan data yang sudah diubah
 
 <img width="425" alt="j2 1" src="https://user-images.githubusercontent.com/115516607/206638050-f9d9bf4f-011c-40f4-9b6f-231e4c03620c.png">
-
-ini adalah output apabila memilih untuk tambah lagi
-
-<img width="236" alt="j1 1" src="https://user-images.githubusercontent.com/115516607/206638190-258bf7c3-98af-467e-a0c2-092729c1f6f5.png">
 
 ini adalah output apabila memilih lihat (3)
 
