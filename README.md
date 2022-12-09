@@ -7,14 +7,6 @@
 
 ![soal](https://user-images.githubusercontent.com/115542704/206460646-4c089e2d-9d9c-427b-a326-d43c633e78d6.png)
 
-## Diagram class
-
-![diagramClass](https://user-images.githubusercontent.com/115542704/206462308-ab57022f-da40-422a-9e52-1c59252d2123.png)
-
-## Flowchart
-
-![flowchart (3)](https://user-images.githubusercontent.com/115542704/206462353-41fd2d95-2329-4f92-9403-e679c5bc1784.png)
-
 ## Program
 
 pertama saya membuat dictionary terlebih dahulu untuk menampung data
@@ -84,7 +76,6 @@ ini adalah output apabila memilih tambah (1)
 
 <img width="280" alt="j1" src="https://user-images.githubusercontent.com/115516607/206637149-da0fc9cf-eb11-4815-9dc2-d118a8138236.png">
 
-
 ini adalah output apabila memilih untuk tambah lagi
 
 <img width="236" alt="j1 1" src="https://user-images.githubusercontent.com/115516607/206638190-258bf7c3-98af-467e-a0c2-092729c1f6f5.png">
@@ -112,5 +103,13 @@ berikut tampilan data yang telah terhapus
 ini adalah output apabila memilih keluar (5)
 
 <img width="226" alt="j5" src="https://user-images.githubusercontent.com/115516607/206639527-75dcb8f6-e73d-4923-a5f8-969ca6e8be1b.png">
+
+## Diagram class
+
+![diagramClass](https://user-images.githubusercontent.com/115542704/206462308-ab57022f-da40-422a-9e52-1c59252d2123.png)
+
+## Flowchart
+
+![flowchart (3)](https://user-images.githubusercontent.com/115542704/206462353-41fd2d95-2329-4f92-9403-e679c5bc1784.png)
 
 # SEKIAN TERIMAKASIH
