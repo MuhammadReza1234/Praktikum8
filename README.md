@@ -112,4 +112,4 @@ ini adalah output apabila memilih keluar (5)
 
 ![flowchart (3)](https://user-images.githubusercontent.com/115542704/206462353-41fd2d95-2329-4f92-9403-e679c5bc1784.png)
 
-# SEKIAN TERIMAKASIH
+# =====SEKIAN TERIMAKASIH=====
