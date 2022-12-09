@@ -82,34 +82,33 @@ else:
 
 ini adalah output apabila memilih tambah (1)
 
-<img width="297" alt="r1" src="https://user-images.githubusercontent.com/115542704/206631985-7ed6f8b8-f580-4989-8749-174e4579e835.png">
+<img width="280" alt="j1" src="https://user-images.githubusercontent.com/115516607/206637149-da0fc9cf-eb11-4815-9dc2-d118a8138236.png">
 
 ini adalah output apabila memilih ubah (2)
 
-<img width="229" alt="r2" src="https://user-images.githubusercontent.com/115542704/206632264-37df1256-a3ee-4662-85a6-002f5dd6d76f.png">
+<img width="242" alt="j2" src="https://user-images.githubusercontent.com/115516607/206637919-76f0ac74-cfdd-4e77-bad6-079dd0958076.png">
 
-berikut data yang sudah diubah
+berikut tampilan data yang sudah diubah
 
-<img width="428" alt="r22" src="https://user-images.githubusercontent.com/115542704/206632858-f11bfb84-7e54-4232-86fe-632e51c896fb.png">
+<img width="425" alt="j2 1" src="https://user-images.githubusercontent.com/115516607/206638050-f9d9bf4f-011c-40f4-9b6f-231e4c03620c.png">
 
 ini adalah output apabila memilih untuk tambah lagi
 
-<img width="226" alt="r1 1" src="https://user-images.githubusercontent.com/115542704/206633055-4569f90b-0861-4eac-85e8-411aea622759.png">
+<img width="236" alt="j1 1" src="https://user-images.githubusercontent.com/115516607/206638190-258bf7c3-98af-467e-a0c2-092729c1f6f5.png">
 
 ini adalah output apabila memilih lihat (3)
 
-<img width="422" alt="r3" src="https://user-images.githubusercontent.com/115542704/206634080-2e46eb8d-81f9-4799-9c38-eb5d04703c08.png">
+<img width="425" alt="j2 1" src="https://user-images.githubusercontent.com/115516607/206638302-ebd2cfb1-452c-4477-b4b7-bd9c5ee475ff.png">
 
 ini adalah output apabila memilih hapus (4)
 
-<img width="201" alt="r4" src="https://user-images.githubusercontent.com/115542704/206633372-daefd529-009d-46e8-be7a-b5d06687388a.png">
+<img width="211" alt="j4" src="https://user-images.githubusercontent.com/115516607/206638445-ad4d0726-7edb-48af-92ac-0fcdd8b25b5c.png">
 
 berikut tampilan data yang telah terhapus
 
-<img width="418" alt="r4 1" src="https://user-images.githubusercontent.com/115542704/206633747-6f3e7e1a-97ec-4768-9418-f9c78b2e64c7.png">
+<img width="424" alt="j4 2" src="https://user-images.githubusercontent.com/115516607/206638582-6f50f512-8f4c-4f4b-9a28-5de3cac7ccab.png">
 
 ini adalah output apabila memilih keluar (5)
 
-<img width="233" alt="r5" src="https://user-images.githubusercontent.com/115542704/206634711-7843405a-c2a7-4a80-8428-b9cb22c58324.png">
 
 # SEKIAN TERIMAKASIH
