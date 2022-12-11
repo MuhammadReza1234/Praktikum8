@@ -28,7 +28,7 @@ def hapus(self)
 def keluar(self)
 ```
 
-lalu saya mengisi setiap method dengan elemen-elemen nya
+lalu saya mengisi setiap method dengan elemen-elemennya
 ```python
 nama= input("masukan nama: ")
 nim= input("masukan nim :")                                         
@@ -48,7 +48,7 @@ while True:
     print()
 ```
 
-Dan terakhir membuat fungsi if else untuk menjalankan method
+Kemudian membuat fungsi if else untuk menjalankan method
 ```python
 if (c == "1"):
     data.tambah()
@@ -63,7 +63,7 @@ elif (c == "5"):
     break    
 ```
 
-Dan saya juga menggunakan else di akhir program yang digunakan apabila salah memasukkan pilihan inputan
+Dan terakhir saya juga menggunakan else di akhir program yang digunakan apabila salah memasukkan pilihan inputan
 ```python
 else:
     print()
